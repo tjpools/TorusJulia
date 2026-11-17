@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JacobianTorus.vcxproj" Id="bc465902-7602-4297-b6ac-d221175444ad" />
+</Solution>
